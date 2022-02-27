@@ -33,5 +33,5 @@ Olá! Eu sou a Camille Guillen 👋
      <a href="https://www.linkedin.com/in/camille-guillen-532701215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:camilleguillenfernandes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/CamilleGFAlmeida1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CamilleGFAlmeida/blob/output/github-contribution-grid-snake.svg)
   </div> 
