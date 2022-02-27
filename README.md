@@ -1,16 +1,37 @@
-### Hi there 👋
+Olá! Eu sou a Camille Guillen 👋
 
-<!--
-**CamilleGFAlmeida/CamilleGFAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Ainda não trabalho com programação... AINDA
+- 🌱 Estudando HTML, CSS e WORDPRESS
+- 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
+- 😄 Pronouns: ela/dela 
+- 💬 Ask me about qualquer coisa!
+- ⚡ Fun fact: Tenho habilidades com desenho e arte 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://github.com/CamilleGFAlmeida">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilleGFALmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=tokyonight"/>
+    </div> 
+  
+  ##
+  
+<div style="display: inline_block"><br> 
+  <img align="center" alt="Cami_CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Cami_Chsarp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Cami_Gimp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img align="center" alt="Cami_HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Cami_JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Cami_MYSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Cami_React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="right" alt="Cami_IMG" height="240" width="240" src="https://share-cdn.picrew.me/shareImg/org/202202/283552_9EYkXU1k.png" />
+  </div> 
+  
+  <div> <br> 
+    <a href="https://github.com/CamilleGFAlmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+      <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://instagram.com/tecnicaldraws7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/camille-guillen-532701215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:camilleguillenfernandes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+  ![Snake animation](https://github.com/CamilleGFAlmeida/blob/output/github-contribution-grid-snake.svg)
+  </div> 
