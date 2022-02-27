@@ -1,5 +1,8 @@
 Olá! Eu sou a Camille Guillen 👋
 
+
+![gifyoda (1) (1)](https://user-images.githubusercontent.com/97997891/155898218-fe8882c5-5c8e-4366-98d2-0c2cb1012e90.gif)
+
 - 🔭 Ainda não trabalho com programação... AINDA
 - 🌱 Estudando HTML, CSS e WORDPRESS
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
@@ -35,3 +38,5 @@ Olá! Eu sou a Camille Guillen 👋
     
   ![Snake animation](https://github.com/CamilleGFAlmeida/CamilleGFAlmeida/blob/output/github-contribution-grid-snake.svg)
   </div> 
+  
+
