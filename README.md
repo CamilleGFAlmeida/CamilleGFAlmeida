@@ -6,7 +6,7 @@ Olá! Eu sou a Camille Guillen 👋
 - 🔭 Ainda não trabalho com programação... AINDA
 - 🌱 Estudando HTML, CSS e WORDPRESS
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
-- 😄 Pronouns: ela/dela 
+- 😄 Programming
 - 💬 Ask me about qualquer coisa!
 - ⚡ Fun fact: Tenho habilidades com desenho e arte 
 
