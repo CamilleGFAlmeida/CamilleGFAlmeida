@@ -26,7 +26,7 @@ Olá! Eu sou a Camille Guillen 👋
   <img align="center" alt="Cami_JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Cami_MYSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Cami_React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="right" alt="Cami_img" height="240" width="240" src="https://picrew.me/image_maker/1430694/complete?cd=agrOd5WNIX">
+   <img align="right" alt="Cami_img" height="240" width="240" src="https://picrew.me/shareImg/org/202206/1430694_FTNNKjp3.png">
   </div> 
   
   <div> <br> 
