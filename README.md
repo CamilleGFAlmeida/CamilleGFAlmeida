@@ -1,4 +1,4 @@
-<h3>Olá! Eu sou a Camille Guillen 👋</h3>
+<h3><b>Olá! Eu sou a Camille Guillen 👋</b></h3>
 
 ##
 
@@ -6,7 +6,7 @@
 ![str](https://user-images.githubusercontent.com/97997891/179817309-5eb0f7ab-1dad-41fd-a2fe-ab85299c1048.gif)
 
 ##
-- 🔭 Ainda não trabalho com programação... AINDA
+- 🔭 Ainda não trabalho com programação mas tô no caminho... 
 - 🌱 Estudando Html, Css, Javascript e React 
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
 - 😄 Programming
