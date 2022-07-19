@@ -14,7 +14,7 @@
 - ⚡ Fun fact: Tenho habilidades com desenho e arte 
 
 <div> 
-<p><img align="right" height="400" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
   <a href="https://github.com/CamilleGFAlmeida">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilleGFALmeida&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=panda"/>
