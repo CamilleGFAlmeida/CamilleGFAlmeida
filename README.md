@@ -15,10 +15,10 @@
 
 <div>
 <div>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
   <a href="https://github.com/CamilleGFAlmeida"></div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilleGFALmeida&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=panda"/>
+   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=CamilleGFALmeida&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+    <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=panda"/>
     </div> 
     <div> 
      <img align="right" alt="Cami_img" height="240" width="240" src="https://picrew.me/shareImg/org/202206/134965_a1eKtE3J.png"> 
