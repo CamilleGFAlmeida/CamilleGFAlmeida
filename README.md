@@ -1,9 +1,9 @@
-<h3><b>Olá! Bem-vindo ao meu perfil👋</b></h3>
+<h3><b>Olá! Esse é o meu perfil👋</b></h3>
 
 ##
 
 ![gifyoda (1) (1)](https://user-images.githubusercontent.com/97997891/155898218-fe8882c5-5c8e-4366-98d2-0c2cb1012e90.gif)
-![str](https://user-images.githubusercontent.com/97997891/179817309-5eb0f7ab-1dad-41fd-a2fe-ab85299c1048.gif)
+![str](https://user-images.githubusercontent.com/97997891/179817309-5eb0f7ab-1dad-41fd-a2fe-ab85299c1048.gif) 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
  
