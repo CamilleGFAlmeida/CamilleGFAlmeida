@@ -23,7 +23,7 @@
 
 ##
 - 🔭 Ainda não trabalho com programação mas tô no caminho... 
-- 🌱 Estudando Html, Css, Javascript e React 
+- 🌱 Estudando Html, Css, Javascript e Phyton 
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
 - 😄 Programming
 - 💬 Ask me about qualquer coisa!
