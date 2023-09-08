@@ -22,11 +22,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CamilleGFAlmeida&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
-- 🔭 Ainda não trabalho com programação mas tô no caminho... 
-- 🌱 Estudando Html, Css, Javascript e Phyton 
+- 🔭 Em busca do sonho da programação... 
+- 🌱 Estudando ReactJS, ReactNative, Javascript, Phyton e Node.js
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
 - 😄 Programming
-- 💬 Ask me about qualquer coisa!
+- 💬 Domino HTML e CSS (Hypertext Markup Language) (Cascade Style Sheets)
 - ⚡ Fun fact: Tenho habilidades com desenho e arte 
 
 <!-- <div>
