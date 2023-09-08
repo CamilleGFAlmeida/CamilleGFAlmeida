@@ -52,6 +52,8 @@
     <a href="mailto:camilleguillenfernandes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
   ![Snake animation](https://github.com/CamilleGFAlmeida/CamilleGFAlmeida/blob/output/github-contribution-grid-snake.svg)
+
+ 
   </div> 
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
