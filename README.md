@@ -19,6 +19,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CamilleGFAlmeida&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilleGFAlmeida&theme=rogue)](https://github.com/CamilleGFAlmeida/github-readme-activity-graph)
+
 ##
 - 🔭 Em busca do sonho da programação... 
 - 🌱 Estudando ReactJS, ReactNative, Javascript, Phyton e Node.js
