@@ -25,7 +25,9 @@
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
 - 😄 Programming
 - 💬 Domino HTML e CSS (Hypertext Markup Language) (Cascade Style Sheets)
-- ⚡ Fun fact: Tenho habilidades com desenho e arte 
+- ⚡ Fun fact: Tenho habilidades com desenho e arte
+
+<img src="https://th.bing.com/th/id/OIG.HHO0_gDKomwPLTb_oQHO?pid=ImgGn&w=1024&h=1024&rs=1" width="270px" height="270px" align="right" border-radius="20%"/>
 
 <!-- <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
