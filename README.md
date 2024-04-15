@@ -20,24 +20,24 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilleGFAlmeida&theme=rogue)](https://github.com/CamilleGFAlmeida/github-readme-activity-graph)
 
 ##
-- 🔭 Em busca do sonho da programação... 
-- 🌱 Estudando ReactJS, ReactNative, Javascript, Phyton e Node.js
+- 🔭 Em busca do *sonho da programação*... 
+- 🌱 Estudando *ReactJS, ReactNative, Javascript, Phyton e Node.js*
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
 - 😄 Programming
 - 💬 Domino HTML e CSS (Hypertext Markup Language) (Cascade Style Sheets)
 - ⚡ Fun fact: Tenho habilidades com desenho e arte
 
-<img src="https://th.bing.com/th/id/OIG.z8Qhy2RnZF2atBpJDemI?pid=ImgGn" width="270px" height="270px" align="right" border-radius="20%"/>
+<img src="https://th.bing.com/th/id/OIG.z8Qhy2RnZF2atBpJDemI?pid=ImgGn" width="300px" height="300px" align="right" border-radius="40%"/>
 
 <!-- <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
-  <a href="https://github.com/CamilleGFAlmeida">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilleGFALmeida&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=panda"/> 
+  <a href="https://github.com/CamilleGFAlmeida"> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilleGFALmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=tokyonight"/> 
     </div>  
-    <div> 
+    <!-- <div> 
      <img align="right" alt="Cami_img" height="240" width="240" src="https://picrew.me/shareImg/org/202206/134965_a1eKtE3J.png"> 
-    </div> --> 
+    </div> -->
   
 ##
 
