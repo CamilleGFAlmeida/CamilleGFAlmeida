@@ -1,4 +1,4 @@
-<h3><b>Olá! Esse é o meu perfil👋</b></h3>
+<h3 align="center"><b>Olá! Esse é o meu perfil👋</b></h3>
 
 ##
 ![gifyoda (1) (1)](https://user-images.githubusercontent.com/97997891/155898218-fe8882c5-5c8e-4366-98d2-0c2cb1012e90.gif)
@@ -17,23 +17,25 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CamilleGFAlmeida&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilleGFAlmeida&theme=rogue)](https://github.com/CamilleGFAlmeida/github-readme-activity-graph)
 
 ##
 - 🔭 Em busca do *sonho da programação*... 
-- 🌱 Estudando *ReactJS, ReactNative, Javascript, Phyton e Node.js*
+- 🌱 Estudando *ReactJS, ReactNative, Javascript, Typescript e C*
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
 - 😄 Programming
 - 💬 Domino HTML e CSS (Hypertext Markup Language) (Cascade Style Sheets)
 - ⚡ Fun fact: Tenho habilidades com desenho e arte
 
-<img src="blob:https://www.bing.com/f4314e75-05df-445a-a20f-e60a5d4ba03a" width="300px" height="300px" align="right" border-radius="40%"/>
+<img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="300px" height="300px" align="right" border-radius="40%"/>
+
 
 <!-- <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
   <a href="https://github.com/CamilleGFAlmeida"> -->
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilleGFALmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=tokyonight"/> 
+   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CamilleGFALmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=dracula"/> 
     </div>  
     <!-- <div> 
      <img align="right" alt="Cami_img" height="240" width="240" src="https://picrew.me/shareImg/org/202206/134965_a1eKtE3J.png"> 
