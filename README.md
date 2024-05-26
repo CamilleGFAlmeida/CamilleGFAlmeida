@@ -27,7 +27,7 @@
 - 💬 Domino HTML e CSS (Hypertext Markup Language) (Cascade Style Sheets)
 - ⚡ Fun fact: Tenho habilidades com desenho e arte
 
-<img src="https://th.bing.com/th/id/OIG.z8Qhy2RnZF2atBpJDemI?pid=ImgGn" width="300px" height="300px" align="right" border-radius="40%"/>
+<img src="blob:https://www.bing.com/f4314e75-05df-445a-a20f-e60a5d4ba03a" width="300px" height="300px" align="right" border-radius="40%"/>
 
 <!-- <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
