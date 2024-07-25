@@ -1,7 +1,28 @@
-<h3 align="center"><b>Olá! Esse é o meu perfil👋</b></h3>
+![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+# 💫 Sobre mim:
+🚀 Welcome to my GitHub space! I'm passionate Front-End Developer with a relentless enthusiasm for creating seamless and efficient web applications. I am doing specialization in MongoDB, Javascript, React.js and Node.js stack, where I bring both frontend and some backend components to life.
 
-##
-![gifyoda (1) (1)](https://user-images.githubusercontent.com/97997891/155898218-fe8882c5-5c8e-4366-98d2-0c2cb1012e90.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj1849&label=Profile%20views&color=0e75b6&style=flat" alt="suraj1849" /> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+## 🌐 Connect with me:
+
+
+<h3 align="left"></h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/camille-guillen-fernandes-de-almeida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil karamka" height="30" width="40" /></a>
+
+</p>
+
+
+# 💻 Tech:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- <h3 align="center"><b>Olá! Esse é o meu perfil👋</b></h3> --> 
+
+<!-- ##
+![gifyoda (1) (1)](https://user-images.githubusercontent.com/97997891/155898218-fe8882c5-5c8e-4366-98d2-0c2cb1012e90.gif) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
  
