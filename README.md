@@ -1,5 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-# 💫 About me:
+# 💫 About me (>‿◠)✌:
 🚀 Welcome to my GitHub space! I'm passionate Front-End Developer with a relentless enthusiasm for creating seamless and efficient web applications. I am doing specialization in MongoDB, Javascript, React.js and Node.js stack, where I bring both frontend and some backend components to life.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj1849&label=Profile%20views&color=0e75b6&style=flat" alt="suraj1849" /> </p>
@@ -47,7 +47,7 @@
 - 📫 Contate-me no email: camilleguillenfernandes@gmail.com 
 - 😄 Programming
 - 💬 Domino HTML e CSS (Hypertext Markup Language) (Cascade Style Sheets)
-- ⚡ Fun fact: Tenho habilidades com desenho e arte
+- ⚡ Fun fact: Tenho habilidades com desenho e arte ✎
 
 <img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="300px" height="300px" align="right" border-radius="40%"/>
 
