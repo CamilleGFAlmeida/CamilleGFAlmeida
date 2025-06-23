@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 # 💫 About me (>‿◠)✌:
-🚀 Welcome to my GitHub space! I'm passionate Front-End Developer with a relentless enthusiasm for creating seamless and efficient web applications. I am doing specialization in MongoDB, Javascript, React.js and Node.js stack, where I bring both frontend and some backend components to life.
+🚀 Welcome to my GitHub space! I'm passionate Full-Stack Developer with a relentless enthusiasm for creating seamless and efficient web applications. I am doing specialization in MongoDB, Javascript, React.js and Node.js stack, where I bring both frontend and some backend components to life.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj1849&label=Profile%20views&color=0e75b6&style=flat" alt="suraj1849" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
