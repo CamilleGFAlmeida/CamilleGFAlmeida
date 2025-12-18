@@ -157,20 +157,25 @@
      <a href="https://www.linkedin.com/in/camille-guillen-fernandes-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:camilleguillenfernandes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-  ![snake gif](https://github.com/CamilleGFAlmeida/CamilleGFAlmeida/blob/output/github-contribution-grid-snake-dark.svg)
+ <!-- ![snake gif](https://github.com/CamilleGFAlmeida/CamilleGFAlmeida/blob/output/github-contribution-grid-snake-dark.svg) --> 
  
-  </div> 
+ 
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
-  
-
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CamilleGFAlmeida/CamilleGFAlmeida/output2/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CamilleGFAlmeida/CamilleGFAlmeida/output2/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/CamilleGFAlmeida/CamilleGFAlmeida/output2/pacman-contribution-graph.svg">
 </picture>
+
+ </div> 
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+
 
 ###
