@@ -23,7 +23,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Camille;TENHO+19+ANOS;SOU+DE+SÃO+PAULO;ESTUDO+PROGRAMAÇÃO+ATUALMENTE;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
 ##
-<h3 align="center">I'm passionate Full-Stack Developer & Data Analyst ⋆. 𐙚 ˚</h3>
+<h3 align="center">I'm Full-Stack Developer & Data Analyst ⋆. 𐙚 ˚</h3>
 
 <!--<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CamilleGFAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117" alt="CamilleGFAlmeida github stats" /> 
