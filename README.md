@@ -38,10 +38,7 @@
 - <p><strong>Contate-me no email: camilleguillenfernandes@gmail.com ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗</strong></p>
 - <p><strong>Confira meu Portfólio: https://camille-dev.vercel.app/  𖹭</strong></p>
 
-- <strong>✎ᝰ. Tenho um perfil de arte chamado tecnicaldraws7. Dê uma olhadinha no <a href="https://www.instagram.com/tecnicaldraws7/">Instagram</a><a href="https://www.instagram.com/tecnicaldraws7/" style="margin-left: 4px;">
-  <img src="./assets/tecnicaldraws.png" width="30" style="vertical-align: middle; border-radius: 50%;" />
-</a>
-</strong>
+- <strong>✎ᝰ. Tenho um perfil de arte chamado tecnicaldraws7. Dê uma olhadinha no <a href="https://www.instagram.com/tecnicaldraws7/">Instagram</a></a></strong>
 
 
 <img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="150px" height="150px" align="right" border-radius="70%"/>
