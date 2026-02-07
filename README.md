@@ -20,7 +20,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Camille;TENHO+20+ANOS;SOU+DE+SÃO+PAULO;ESTUDO+PROGRAMAÇÃO;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM-VINDO!;MEU+NOME+É+CAMILLE+:%29)](https://git.io/typing-svg)
 
 ##
 <h3 align="center">I'm Full-Stack Developer & Data Analyst ⋆. 𐙚 ˚</h3>
@@ -37,6 +37,12 @@
 - <p><strong>Estudando ReactJS, Machine Learning, Python, Dart e C 💻</strong></p>
 - <p><strong>Contate-me no email: camilleguillenfernandes@gmail.com ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗</strong></p>
 - <p><strong>Confira meu Portfólio: https://camille-dev.vercel.app/  𖹭</strong></p>
+
+- <strong>✎ᝰ. Tenho um perfil de arte chamado tecnicaldraws7. Dê uma olhadinha no <a href="https://www.instagram.com/tecnicaldraws7/">Instagram</a><a href="https://www.instagram.com/tecnicaldraws7/" style="margin-left: 4px;">
+  <img src="./assets/tecnicaldraws.png" width="30" style="vertical-align: middle; border-radius: 50%;" />
+</a>
+</strong>
+
 
 <img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="150px" height="150px" align="right" border-radius="70%"/>
 
