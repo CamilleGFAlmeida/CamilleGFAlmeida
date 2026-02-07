@@ -34,14 +34,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilleGFAlmeida&theme=rogue)](https://github.com/CamilleGFAlmeida/github-readme-activity-graph) --> 
 
 ##
+<img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="150px" height="150px" align="right" border-radius="70%"/>
+
 - <p><strong>Estudando ReactJS, Machine Learning, Python, Dart e C 💻</strong></p>
 - <p><strong>Contate-me no email: camilleguillenfernandes@gmail.com ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗</strong></p>
 - <p><strong>Confira meu Portfólio: https://camille-dev.vercel.app/  𖹭</strong></p>
 
 - <strong>✎ᝰ. Tenho um perfil de arte chamado tecnicaldraws7. Dê uma olhadinha no <a href="https://www.instagram.com/tecnicaldraws7/">Instagram</a></a></strong>
-
-
-<img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="150px" height="150px" align="right" border-radius="70%"/>
 
 
 <!-- <div>
@@ -156,7 +155,7 @@
   <div align="center"> <br> 
    <!-- <a href="https://github.com/CamilleGFAlmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> --> 
       <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://instagram.com/tecnicaldraws7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/camzz.i_ee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/camille-guillen-fernandes-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:camilleguillenfernandes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
