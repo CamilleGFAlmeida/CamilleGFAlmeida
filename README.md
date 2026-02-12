@@ -40,7 +40,7 @@
 - <p><strong>Contate-me no email: camilleguillenfernandes@gmail.com ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗</strong></p>
 - <p><strong>Confira meu Portfólio: https://camille-dev.vercel.app/  𖹭</strong></p>
 
-- <strong>✎ᝰ. Tenho um perfil de arte chamado tecnicaldraws7. Dê uma olhadinha no <a href="https://www.instagram.com/tecnicaldraws7/">Instagram</a></a></strong>
+- <strong>Tenho um perfil de arte chamado tecnicaldraws7. Dê uma olhadinha no <a href="https://www.instagram.com/tecnicaldraws7/">Instagram</a> ✎ᝰ.</a></strong>
 
 
 <!-- <div>
