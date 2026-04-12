@@ -36,7 +36,7 @@
 ##
 <img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="150px" height="150px" align="right" border-radius="70%"/>
 
-- <p><strong>Estudando ReactJS, Machine Learning, Python, Dart e C 💻</strong></p>
+- <p><strong>Estudando Angular, Machine Learning, Python, Dart e .Net 💻</strong></p>
 - <p><strong>Contate-me no email: camilleguillenfernandes@gmail.com ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗</strong></p>
 - <p><strong>Confira meu Portfólio: https://camille-dev.vercel.app/  𖹭</strong></p>
 
