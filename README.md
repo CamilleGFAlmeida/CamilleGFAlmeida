@@ -20,7 +20,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM-VINDO!;MEU+NOME+É+CAMILLE+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM-VINDO!;MEU+NOME+É+CAMILLE)](https://git.io/typing-svg)
 
 ##
 <h3 align="center">I'm Full-Stack Developer & Data Analyst ⋆. 𐙚 ˚</h3>
