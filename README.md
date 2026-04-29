@@ -36,11 +36,16 @@
 ##
 <img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="150px" height="150px" align="right" border-radius="70%"/>
 
-- <p><strong>Estudando Angular, Machine Learning, Python, Dart e .Net 💻</strong></p>
-- <p><strong>Contate-me no email: camilleguillenfernandes@gmail.com ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗</strong></p>
-- <p><strong>Confira meu Portfólio: https://camille-dev.vercel.app/  𖹭</strong></p>
-
-- <strong>Tenho um perfil de arte chamado tecnicaldraws7. Dê uma olhadinha no <a href="https://www.instagram.com/tecnicaldraws7/">Instagram</a> ✎ᝰ.</a></strong>
+- Estudando `Angular`, `Machine Learning`, `Python`, `Dart` e `.Net` 💻
+  
+   - Desenvolvimento Back-End com `Node.js`, `Python` and `Laravel` na Rocketseat
+   - Desenvolvimento Front-End com `Angular`, `Next.js` na Rocketseat
+ 
+- Estudando os Idiomas inglês | coreano | japonês
+- Graduada em **Análise e Desenvolvimento de Sistemas (FATEC-SCS)** 🎓 
+- Contate-me no email: **camilleguillenfernandes@gmail.com** ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
+- Confira meu Portfólio: **https://camille-dev.vercel.app/**  𖹭
+- Tenho um perfil de **arte chamado tecnicaldraws7**. Dê uma olhadinha no [Instagram](https://www.instagram.com/tecnicaldraws7/) ✎ᝰ.
 
 
 <!-- <div>
