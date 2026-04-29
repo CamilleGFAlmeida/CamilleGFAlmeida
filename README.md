@@ -66,44 +66,13 @@
 <div align="center">
 
   <div>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=supabase" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=c" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=prisma" height="60" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" />
-    <img width="12" />
+   <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,python,django,docker,git,mysql,mongo" />
   </div>
 
   <br/>
 
   <div>
-    <img src="https://skillicons.dev/icons?i=graphql" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=go" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=java" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=py" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=aws" height="60" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+     <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,angular,vue,sass,php,github,express,prisma,html" />
   </div>
 
 </div>
