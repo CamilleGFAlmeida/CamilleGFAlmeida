@@ -41,7 +41,7 @@
    - Desenvolvimento Back-End com `Node.js`, `Python` and `Laravel` na Rocketseat
    - Desenvolvimento Front-End com `Angular`, `Next.js` na Rocketseat
  
-- Estudando os Idiomas inglês | coreano | japonês
+- Estudando os Idiomas **inglês | coreano | japonês**
 - Graduada em **Análise e Desenvolvimento de Sistemas (FATEC-SCS)** 🎓 
 - Contate-me no email: **camilleguillenfernandes@gmail.com** ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
 - Confira meu Portfólio: **https://camille-dev.vercel.app/**  𖹭
@@ -51,21 +51,49 @@
 <!-- <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
   <a href="https://github.com/CamilleGFAlmeida"> -->
-<div align="left">
+
+<!-- o que deveria ser mantido: <div align="left">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CamilleGFAlmeida&theme=omni&show_icons=true" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGFALmeida&layout=compact&langs_count_commits=true&count=16&theme=omni" />
-</div>
+</div> 
+
+
     <!-- <div> 
      <img align="right" alt="Cami_img" height="240" width="240" src="https://picrew.me/shareImg/org/202206/134965_a1eKtE3J.png"> 
     </div> -->
   
 ##
 
-<h3>Hard Skills: 🏋</h3>
+<h2>Hard Skills: 🏋</h2>
 
-<div align="center">
+<div align="left">
 
-  <div>
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,vue"/>
+</p>
+
+### Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,django,php,laravel,dotnet,c,cs,cpp"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,django"/>
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,eclipse"/>
+</p>
+
+
+ <!-- <div>
    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,python,django,docker,git,mysql,mongo" />
   </div>
 
@@ -75,68 +103,44 @@
      <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,angular,vue,sass,php,github,express,prisma,html" />
   </div>
 
-</div>
-
-<!--## Hard Skills: 🏋
-
-<table>
-  <tr>
-    <td align="center" width="96">
-       <a href="sql" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-       <br>MySQL</br>
-    </td>
-    <td align="center" width="96">
-       <a href="js" target="_blank"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="40" height="40"/> </a>
-       <br>JavaScript</br>
-    </td>
-    <td align="center" width="96">
-       <a href="js" target="_blank"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="py" width="40" height="40"/> </a>
-       <br>Java</br>
-    </td>
-    <td align="center" width="96">
-       <a href="js" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="js" width="40" height="40"/> </a>
-       <br>React</br>
-    </td>
-    <td align="center" width="96">
-       <a href="noded" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a>
-       <br>NodeJs</br>
-    </td>
-    <td align="center" width="96">
-       <a href="js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
-       <br>Html5</br>
-    </td>
-    <td align="center" width="96">
-       <a href="css" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
-       <br>Css3</br>
-    </td>
-    <td align="center" width="96">
-       <a href="figma" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
-       <br>Figma</br>
-    </td>
-    <td align="center" width="96">
-       <a href="git" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-       <br>Git</br>
-    </td>
-    <td align="center" width="96">
-       <a href="git" target="_blank"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40"/> </a>
-       <br>GitHub</br>
-    </td>
-  </tr>
-</table> --> 
+</div> --> 
 
 ---
 
-  <div align="center"> <br> 
-   <!-- <a href="https://github.com/CamilleGFAlmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> --> 
-      <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://instagram.com/camzz.i_ee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/camille-guillen-fernandes-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:camilleguillenfernandes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## 🌸 Projetos em Destaque
+
+| Projeto | Tecnologias | Link |
+|---------|-------------|------|
+| 🌐 **Portfolio** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🔗 [Acessar](https://dev-camille.camilleguillenf-almeida.workers.dev/) |
+| 🚀 **NLW Rocketseat (Full-Stack)** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🔗 [Repositório](https://github.com/CamilleGFAlmeida/nlw-operator-2026) |
+| 🐍 **NLW Rocketseat (Python)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | 🔗 [Repositório](https://github.com/CamilleGFAlmeida/nlw-operator-2026-python) |
+| ✅ **G-List - Gerenciador de Tarefas** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | 🔗 [Repositório](https://github.com/CamilleGFAlmeida/lista) |
+
+
+---
+
+<p align="center">
+
+<a href="https://dev-camille.camilleguillenf-almeida.workers.dev/">
+<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:camilleguillenfernandes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/camille-guillen-fernandes-de-almeida/">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/camzz.i_ee">
+<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
    
  <!-- ![snake gif](https://github.com/CamilleGFAlmeida/CamilleGFAlmeida/blob/output/github-contribution-grid-snake-dark.svg) --> 
  
- 
-  
 
 ###
 
