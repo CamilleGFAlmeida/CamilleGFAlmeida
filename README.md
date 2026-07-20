@@ -109,13 +109,12 @@
 
 ## 🌸 Projetos em Destaque
 
-| Projeto | Tecnologias | Link |
-|---------|-------------|------|
-| 🌐 **Portfolio** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🔗 [Acessar](https://dev-camille.camilleguillenf-almeida.workers.dev/) |
-| 🚀 **NLW Rocketseat (Full-Stack)** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🔗 [Repositório](https://github.com/CamilleGFAlmeida/nlw-operator-2026) |
-| 🐍 **NLW Rocketseat (Python)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | 🔗 [Repositório](https://github.com/CamilleGFAlmeida/nlw-operator-2026-python) |
-| ✅ **G-List - Gerenciador de Tarefas** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | 🔗 [Repositório](https://github.com/CamilleGFAlmeida/lista) |
-
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|-------------|------|
+| 🌐 **Portfolio** | Portfólio pessoal, onde apresento meus projetos, habilidades, experiências e formações. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🌍 [Acessar](https://dev-camille.camilleguillenf-almeida.workers.dev/) |
+| 🚀 **NLW Rocketseat (Full-Stack)** | Aplicação Full Stack desenvolvida durante o NLW da Rocketseat, utilizando tecnologias modernas para Front-end e Back-end. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 📂 [Repositório](https://github.com/CamilleGFAlmeida/nlw-operator-2026) |
+| 🐍 **NLW Rocketseat (Python)** | API desenvolvida durante o NLW utilizando Python e FastAPI, com foco em boas práticas e desenvolvimento de serviços web. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | 📂 [Repositório](https://github.com/CamilleGFAlmeida/nlw-operator-2026-python) |
+| ✅ **G-List - Gerenciador de Tarefas** | Aplicação para gerenciamento de tarefas, permitindo organizar atividades de forma simples, intuitiva e eficiente. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | 📂 [Repositório](https://github.com/CamilleGFAlmeida/lista) |
 
 ---
 
