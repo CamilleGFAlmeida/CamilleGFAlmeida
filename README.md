@@ -33,8 +33,9 @@
 <!--##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CamilleGFAlmeida&theme=rogue)](https://github.com/CamilleGFAlmeida/github-readme-activity-graph) --> 
 
-##
-<img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="200px" height="200px" align="right" border-radius="70%"/>
+<table>
+<tr>
+<td width="75%" valign="top">
 
 - Atualmente estudando `Angular`, `Machine Learning`, `Python`, `Dart` e `.NET` 💻
   - Desenvolvimento Back-End com `Node.js`, `Python` e `Laravel` pela Rocketseat.
@@ -45,10 +46,26 @@
   - Cursando **Segurança da Informação (FATEC-SCS)** e **Engenharia da Computação (UNIVESP-SP)**.
 
 - Estudando os idiomas **inglês | coreano | japonês** 🌎
-- Contato: **camilleguillenfernandes@gmail.com** ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
-- Portfólio: **https://dev-camille.camilleguillenf-almeida.workers.dev/**  𖹭
-- 🎨 Tenho um perfil de **arte chamado tecnicaldraws7**. Dê uma olhadinha no [Instagram](https://www.instagram.com/tecnicaldraws7/). 
 
+- Contato: **camilleguillenfernandes@gmail.com** ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
+
+- Portfólio: **https://dev-camille.camilleguillenf-almeida.workers.dev/** 𖹭
+
+- 🎨 Tenho um perfil de **arte chamado tecnicaldraws7**. Dê uma olhadinha no [Instagram](https://www.instagram.com/tecnicaldraws7/).
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="200"/>
+
+<br><br>
+
+<img src="https://media.tenor.com/EcAlsge9saMAAAAM/sailor-moon-rei-hino.gif" width="200"/>
+
+</td>
+</tr>
+</table>
 
 <!-- <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillegfalmeida&" alt="camillegfalmeida" /></p>
