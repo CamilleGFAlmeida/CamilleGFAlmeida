@@ -44,7 +44,7 @@
 - Estudando os Idiomas **inglês | coreano | japonês**
 - Graduada em **Análise e Desenvolvimento de Sistemas (FATEC-SCS)** 🎓 
 - Contate-me no email: **camilleguillenfernandes@gmail.com** ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
-- Confira meu Portfólio: **https://camille-dev.vercel.app/**  𖹭
+- Confira meu Portfólio: **https://dev-camille.camilleguillenf-almeida.workers.dev/**  𖹭
 - Tenho um perfil de **arte chamado tecnicaldraws7**. Dê uma olhadinha no [Instagram](https://www.instagram.com/tecnicaldraws7/) ✎ᝰ.
 
 
