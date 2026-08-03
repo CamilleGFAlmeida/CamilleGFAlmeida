@@ -96,7 +96,7 @@
 ### Back-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,django,php,laravel,dotnet,c,cs,cpp"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php,laravel,dotnet,c,cs,cpp"/>
 </p>
 
 ### Banco de Dados
