@@ -108,7 +108,7 @@
 ### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,eclipse"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,eclipse,linux,kali"/>
 </p>
 
 
