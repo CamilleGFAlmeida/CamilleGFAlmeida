@@ -57,7 +57,7 @@
 
 <td width="25%" align="center" valign="top">
 
-<img src="https://github.com/CamilleGFAlmeida/img-github/blob/main/img.png" width="200"/>
+<img src="https://github.com/CamilleGFAlmeida/img-github/raw/main/avatar.png" width="200"/>
 
 <br><br>
 
