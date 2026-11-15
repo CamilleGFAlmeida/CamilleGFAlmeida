@@ -83,31 +83,27 @@
   
 ---
 
-<h2>Hard Skills: 🏋</h2>
+<h2 align="center">Hard Skills 🏋</h2>
 
 <div align="left">
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
-<b>🎨 Front-End</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,vue&perline=5"/>
-</td>
-<td align="center" width="50%">
-<b>⚙️ Back-End</b><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php,laravel,django,dotnet,c,cs,cpp&perline=6"/>
-</td>
+<td align="center" width="190"><img src="https://img.shields.io/badge/Front--End-FF69B4?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,vue"/></td>
 </tr>
 <tr>
-<td align="center" width="50%">
-<b>🗄️ Banco de Dados & ORM</b><br><br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma"/>
-</td>
-<td align="center" width="50%">
-<b>🧰 Ferramentas</b><br><br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,eclipse,linux,kali&perline=4"/>
-</td>
+<td align="center" width="190"><img src="https://img.shields.io/badge/Back--End-FF69B4?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php,laravel,django,dotnet,c,cs,cpp"/></td>
+</tr>
+<tr>
+<td align="center" width="190"><img src="https://img.shields.io/badge/Banco_de_Dados-FF69B4?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma"/></td>
+</tr>
+<tr>
+<td align="center" width="190"><img src="https://img.shields.io/badge/Ferramentas-FF69B4?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,eclipse,linux,kali"/></td>
 </tr>
 </table>
 </div>
