@@ -87,29 +87,30 @@
 
 <div align="left">
 
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,vue"/>
-</p>
-
-### Back-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php,laravel,dotnet,c,cs,cpp"/>
-</p>
-
-### Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,django"/>
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,eclipse,linux,kali"/>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<b>🎨 Front-End</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,vue&perline=5"/>
+</td>
+<td align="center" width="50%">
+<b>⚙️ Back-End</b><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php,laravel,django,dotnet,c,cs,cpp&perline=6"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<b>🗄️ Banco de Dados & ORM</b><br><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma"/>
+</td>
+<td align="center" width="50%">
+<b>🧰 Ferramentas</b><br><br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,eclipse,linux,kali&perline=4"/>
+</td>
+</tr>
+</table>
+</div>
 
 
  <!-- <div>
